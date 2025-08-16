@@ -59,5 +59,4 @@
 
 ![加好友二维码](./加好友二维码.jpg)
 
-更多详情可见：`拼车软文-ChatGPT5Pro-Codex高端局.md`
-
+更多详情可见：`ChatGPT 5 Pro - Codex 高端拼车.md`
